@@ -28,3 +28,8 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
   * Stemming is a process that can clean data from affixes, prefixes, greetings, suffixes, or combinations.
   * Slang Removal
 
+### Modelling
+ * On this project we used three data classifications SVM, MLM, NN. and NN had the best results with an accuracy of 0.72.
+
+### Neural Netwok
+
