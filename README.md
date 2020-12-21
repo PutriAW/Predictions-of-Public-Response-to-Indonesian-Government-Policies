@@ -35,7 +35,7 @@ Neural networks are forecasting methods that are based on simple mathematical mo
 ![Alt text](https://miro.medium.com/max/700/1*VzfXxubCPfLHxxXZtFInUw.png)
 
 
- * On this project we used three data classifications SVM, MLP, NN. and NN had the best results with an accuracy of 0.72.
+ * On this project we used three data classifications SVM, MLP, NN. and NN had the best results with an accuracy of 0.756
  
 | No     | Model                   | Accuracy  |
 | ------ |------------------------ | ----------|
