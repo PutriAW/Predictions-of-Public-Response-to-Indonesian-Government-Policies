@@ -15,8 +15,8 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
 
 ### Pre Processing
   * Case Folding, The process of converting all the characters in a document into the same case
-       - removal of @name[mention]
-       - removal of links[https://blabala.com]
+       - removal of @name [mention]
+       - removal of links [https://blabala.com]
        - removal of RT
        - removal of punctuations and numbers
        - remove whitespace
