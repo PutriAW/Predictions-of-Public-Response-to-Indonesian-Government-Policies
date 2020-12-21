@@ -34,6 +34,9 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
 Neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors.
 ![Alt text](https://miro.medium.com/max/700/1*VzfXxubCPfLHxxXZtFInUw.png)
 
+our model:
+![Alt text](Model/model.png)
+
 
  * On this project we used three data classifications SVM, MLP, NN. and NN had the best results with an accuracy of 0.756
  
