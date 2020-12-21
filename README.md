@@ -29,7 +29,7 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
   * Slang Removal
 
 ### Modelling
- * On this project we used three data classifications SVM, MLM, NN. and NN had the best results with an accuracy of 0.72.
+ * On this project we used three data classifications SVM, MLP, NN. and NN had the best results with an accuracy of 0.72.
  
 | No     | Model                   | Accuracy  |
 | ------ |------------------------ | ----------|
