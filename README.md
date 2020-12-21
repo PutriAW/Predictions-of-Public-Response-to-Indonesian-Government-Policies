@@ -9,7 +9,7 @@ from crawling process by filtering Tweet on certain keywords related to governme
 Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Response-to-Indonesian-Government-Policies/main/Dataset/raw%20dataset.csv
 
 This how the dataset looks like in wordcloud :
-
+![Alt text](Dataset/wordcloud.png)
 
 
 ### Limitation
