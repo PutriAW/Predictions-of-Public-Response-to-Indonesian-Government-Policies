@@ -2,6 +2,12 @@
 
 The model aims to predict public response to government policies based on someone's tweet. The research conducted aims to build a sentiment analysis pros and cons that can be used in considering new policies. The model will accept input from Twitter users that will be grouped into two classes, namely a positive class and a negative class.
 
+### Create by
+ - Ghinaa Zain Nabiilah
+ - Meidy Tataluckyta
+ - Putri Apriyanti Windya
+ - Rizky Nur Alfian
+Data Science 01
 
 ### Dataset
 from crawling process by filtering Tweet on certain keywords related to government policies such as "vaccine" that related to government policies regarding vaccines.
