@@ -30,6 +30,14 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
 
 ### Modelling
  * On this project we used three data classifications SVM, MLM, NN. and NN had the best results with an accuracy of 0.72.
+ 
+| No     | Model                   | Accuracy  |
+| ------ |------------------------ | ----------|
+| 1      | Support Vector Machine  | 0.705722  |
+| 2      | Multi-Layer Perceptron  | 0.502271  |
+| 3      | Neural Networks         | 0.721163  |
 
 ### Neural Netwok
 Artificial neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors.
+!![Alt text](https://otexts.com/fpp2/nnet1.png)
+
