@@ -31,7 +31,7 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
 ### Modelling
 
 #### Neural Netwok
-Artificial neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors.
+Neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors.
 ![Alt text](https://miro.medium.com/max/700/1*VzfXxubCPfLHxxXZtFInUw.png)
 
 
