@@ -29,15 +29,16 @@ Dataset link: https://raw.githubusercontent.com/PutriAW/Predictions-of-Public-Re
   * Slang Removal
 
 ### Modelling
+
+#### Neural Netwok
+Artificial neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors.
+![Alt text](https://miro.medium.com/max/700/1*VzfXxubCPfLHxxXZtFInUw.png)
+
+
  * On this project we used three data classifications SVM, MLP, NN. and NN had the best results with an accuracy of 0.72.
  
 | No     | Model                   | Accuracy  |
 | ------ |------------------------ | ----------|
-| 1      | Support Vector Machine  | 0.705722  |
-| 2      | Multi-Layer Perceptron  | 0.502271  |
-| 3      | Neural Networks         | 0.721163  |
-
-### Neural Netwok
-Artificial neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors.
-![Alt text](https://miro.medium.com/max/700/1*VzfXxubCPfLHxxXZtFInUw.png)
-
+| 1      | Support Vector Machine  | 0.726158  |
+| 2      | Multi-Layer Perceptron  | 0.478202  |
+| 3      | Neural Networks         | 0.756131  |
